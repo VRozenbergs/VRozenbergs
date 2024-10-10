@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VRozenbergs
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning html, css and Javascript
+- 🌱 I’m currently learning, Android, mobile app development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
